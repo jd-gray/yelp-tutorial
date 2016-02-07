@@ -1,3 +1,4 @@
-View the complete tutorial: http://www.jared-gray.com/posts/interaction-with-yelp-s-api-search-api-on-rails-w-deployment-and-testing
+View the complete tutorial: 
+http://www.jared-gray.com/posts/interaction-with-yelp-s-api-search-api-on-rails-w-deployment-and-testing
 
 Deployed URL: https://afternoon-sands-41195.herokuapp.com
